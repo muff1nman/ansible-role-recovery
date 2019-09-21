@@ -1,0 +1,10 @@
+---
+- name: Install gparted
+  package:
+    name: gparted
+- name: Install ntfs-3g
+  package:
+    name: ntfs-3g
+- name: Install ntfsprogs
+  package:
+    name: ntfsprogs
