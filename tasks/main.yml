@@ -8,3 +8,6 @@
 - name: Install ntfsprogs
   package:
     name: ntfsprogs
+- name: Install dvdisaster
+  package:
+    name: dvdisaster
